@@ -6,10 +6,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Expo React-Native Javascript React**
+- 🔭 I’m currently working on **Expo React-Native Javascript React Node.js**
  
-- 🔭 I’m currently working on **Node.js**
-
 - 🌱 I’m currently learning **Node.js Express.js Mongodb SQL**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
