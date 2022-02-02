@@ -3,6 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ibtahaj Ali</h1>
 <h3 align="center">I'm a passionate Full-Stack Developer from Pakistan.</h3>
 
+<p align="left"> <a href="https://twitter.com/Ibtahajalii" target="blank"><img src="https://img.shields.io/twitter/follow/tayyabaman2?logo=twitter&style=for-the-badge" alt="tayyabaman2" /></a> </p>
 
 ## 🙋‍♂️ About Me
 
@@ -22,6 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/Ibtahajalii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tayyabaman2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/company/linkedin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/linkedin/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/ibtahajbutt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ibtahajbutt" height="30" width="40" /></a>
