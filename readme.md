@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ibtahaj Ali</h1>
 <h3 align="center">I'm a passionate Full-Stack Developer from Pakistan.</h3>
 
-<p align="left"> <a href="https://twitter.com/Ibtahajalii" target="blank"><img src="https://img.shields.io/twitter/follow/tayyabaman2?logo=twitter&style=for-the-badge" alt="tayyabaman2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Ibtahajalii" target="blank"><img src="https://img.shields.io/twitter/follow/IbtahajAli2?logo=twitter&style=for-the-badge" alt="IbtahajAli" /></a> </p>
 
 ## 🙋‍♂️ About Me
 
