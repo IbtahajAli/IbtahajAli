@@ -37,8 +37,8 @@
         <img align="center" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="40" width="40" />
     </a>
     <a href="https://podman.io/" target="_blank">
-        <img align="center" src="https://img.icons8.com/color/48/000000/linux-container.png" alt="Podman" height="40" width="40" />
-    </a>
+    <img src="https://via.placeholder.com/40x40.png?text=Podman" alt="Podman" height="40" width="40" />
+</a>
     <a href="https://twitter.com/bash" target="_blank">
         <img align="center" src="https://img.icons8.com/color/48/000000/console.png" alt="Bash" height="40" width="40" />
     </a>
