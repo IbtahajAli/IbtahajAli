@@ -33,8 +33,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-   <a href="https://twitter.com/docker" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="30" width="40" />     </a>
+ <a href="https://twitter.com/docker" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="30" width="40" />     </a>
    <a href="https://twitter.com/podman_io" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linux-container.png" alt="Podman" height="30" width="40" /></a>
 <a href="https://twitter.com/bash" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/console.png" alt="Bash" height="30" width="40" /></a>
 <a href="https://twitter.com/kubernetesio" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" height="30" width="40" /></a>
@@ -44,7 +43,7 @@
 <a href="https://twitter.com/Linux" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="30" width="40" /></a>
 <a href="https://twitter.com/ubuntu" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu" height="30" width="40" /></a>
 
-
+   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
