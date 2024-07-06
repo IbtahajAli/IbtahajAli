@@ -33,13 +33,13 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
- <a href="https://twitter.com/docker" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="30" width="40" />     </a>
-   <a href="https://twitter.com/podman_io" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linux-container.png" alt="Podman" height="30" width="40" /></a>
+<a href="https://twitter.com/docker" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="30" width="40" />     </a>
+<a href="https://twitter.com/containers" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linux-container.png" alt="Podman" height="30" width="40" /></a>
 <a href="https://twitter.com/bash" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/console.png" alt="Bash" height="30" width="40" /></a>
 <a href="https://twitter.com/kubernetesio" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" height="30" width="40" /></a>
 <a href="https://twitter.com/nginxorg" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" height="30" width="40" /></a>
 <a href="https://twitter.com/awscloud" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" height="30" width="40" /></a>
-<a href="https://twitter.com/azure" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure" height="30" width="40" /></a>
+<a href="https://twitter.com/Azure" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" height="30" width="40" /></a>
 <a href="https://twitter.com/Linux" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="30" width="40" /></a>
 <a href="https://twitter.com/ubuntu" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu" height="30" width="40" /></a>
 
