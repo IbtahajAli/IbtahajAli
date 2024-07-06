@@ -23,6 +23,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://twitter.com/docker" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Docker" height="30" width="40" /></a>
+ <a href="https://twitter.com/nginxorg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Nginx" height="30" width="40" /></a>
+ <a href="https://twitter.com/kubernetesio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kubernetes" height="30" width="40" /></a>
+<a href="https://twitter.com/podman_io" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Podman" height="30" width="40" /></a>
+ <a href="https://twitter.com/azure" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Azure" height="30" width="40" /></a>
+<a href="https://twitter.com/awscloud" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AWS" height="30" width="40" /></a>
+<a href="https://twitter.com/bash" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bash" height="30" width="40" /></a>
+<a href="https://twitter.com/Linux" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Linux" height="30" width="40" /></a>
+<a href="https://twitter.com/ubuntu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ubuntu" height="30" width="40" /></a>
+
 <a href="https://twitter.com/Ibtahajalii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ibtahaj Ali" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/company/linkedin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/linkedin/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/" height="30" width="40" /></a>
